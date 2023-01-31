@@ -6,6 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 *Project Link* -https://brave-wave-0fb05fb00.2.azurestaticapps.net
+
 *project demo video link* - https://youtu.be/XpTrWUSax44
 
 ## Azure technologies used for Project
