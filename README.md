@@ -25,6 +25,23 @@ This is a web based application developed for health related based website in in
 ## Screenshots
 
 ## Home
+![Screenshot (17)](https://user-images.githubusercontent.com/99319299/215668542-061f7fc0-693d-4745-a1c5-9685f9128728.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Tech Stack 💻
